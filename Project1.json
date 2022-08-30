@@ -1,0 +1,22 @@
+{
+  "Project #1": {
+    "Git SHA": "d36122457f98598b96e5adbd283570bec5d41908",
+    "GitLab Username": "markbor198",
+    "GitLab URL": "https://gitlab.com/markbor198/collatz",
+	"GitLab Pipeline URL": "https://gitlab.com/markbor198/collatz/-/pipelines/326950756",
+    "Member #1 EID": "mab7886",
+    "Member #1 First Name": "Mark",
+    "Member #1 Last Name": "Borjas",
+	"Member #1 E-mail": "markbor198@gmail.com",
+    "Member #1 Estimated Completion Time (hours : integer)": 10,
+    "Member #1 Actual   Completion Time (hours : integer)": 6,
+    "Member #2 EID": "nk9352",
+    "Member #2 First Name": "Alex",
+    "Member #2 Last Name": "Kuang",
+    "Member #2 E-mail": "alex0@utexas.edu",
+    "Member #2 Estimated Completion Time (hours : integer)": 10,
+    "Member #2 Actual   Completion Time (hours : integer)": 6,
+	"Completed Sphere Challenge": false,
+    "Comments": "difficult but worth it"
+  }
+}
